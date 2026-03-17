@@ -1,0 +1,5 @@
+npm init -y
+npm i express mongoose morgan  dotenv
+npm i jsonwebtoken
+npm i cookie-parser
+npm install nodemailer
